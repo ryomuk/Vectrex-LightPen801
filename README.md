@@ -2,4 +2,4 @@
 Vectrex lightpen using OPL801-OC integrated sensor
 
 See the following blog for additional information. (This is in Japanese, please use Google or DeepL to translate.)  
-https://blog.goo.ne.jp/tk-80/e/46350716dde9eef57014ad58d2a42d6e
+https://note.com/ryomuk/n/n1286bcfc0b97
